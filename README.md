@@ -1,4 +1,4 @@
-# second_interest_app
+# Simple_interest_app
 
 A new Flutter application.
 
